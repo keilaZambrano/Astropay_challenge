@@ -1,6 +1,6 @@
 Pasos para iniciar:
 
-1. para poder ejecutar el proyecto se debe intalar Node js
+1. para poder ejecutar el proyecto se debe instalar Node js
 https://nodejs.org/es/download/
 2. npm install cypress --save-dev --> instalacion de cypress
 3. npx cypress open --> ejecución de cypres (test)
